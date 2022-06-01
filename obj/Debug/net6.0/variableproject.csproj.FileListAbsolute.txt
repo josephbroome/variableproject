@@ -1,0 +1,15 @@
+C:\Users\serge\repos\variableproject\bin\Debug\net6.0\variableproject.exe
+C:\Users\serge\repos\variableproject\bin\Debug\net6.0\variableproject.deps.json
+C:\Users\serge\repos\variableproject\bin\Debug\net6.0\variableproject.runtimeconfig.json
+C:\Users\serge\repos\variableproject\bin\Debug\net6.0\variableproject.dll
+C:\Users\serge\repos\variableproject\bin\Debug\net6.0\variableproject.pdb
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.csproj.AssemblyReference.cache
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.AssemblyInfoInputs.cache
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.AssemblyInfo.cs
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.csproj.CoreCompileInputs.cache
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.dll
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\refint\variableproject.dll
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.pdb
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\variableproject.genruntimeconfig.cache
+C:\Users\serge\repos\variableproject\obj\Debug\net6.0\ref\variableproject.dll
