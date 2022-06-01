@@ -1,9 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 string dogName= "Lando";
 int dogAge = 5;
-Console.WriteLine($"My dog's name is {dogName}, He is {dogAge} years old");
+char nickName = 'L';
+bool lovesFetching = true; 
+double tennisBalls = 45;
+decimal weight = 42.2m;
 
-char myCharacter = '@';
-Console.WriteLine($"{myCharacter}");
 
+Console.WriteLine($"My dog's name is {dogName}, He is {dogAge} years old and has {tennisBalls} tennis balls and it is {lovesFetching} that he loves to fetch, which helps to keep him at {weight} ");
+
+Console.Writeline($"");
 
